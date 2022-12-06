@@ -28,13 +28,12 @@ https://github.com/sehresh92/Car-game-project-in-Java/tree/main/Project
 
 you can download and check my car game project in java source code from the following link:
 
-https://github.com/sehresh92/Car-game-project-in-Java/tree/main/Project/Images
-
-
-
 https://github.com/sehresh92/Car-game-project-in-Java/blob/main/Project/Game.java
 
  The images folder is used in my car game project. You can download it from the following link:
+ 
+ https://github.com/sehresh92/Car-game-project-in-Java/tree/main/Project/Images
+ 
  
  
 
