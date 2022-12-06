@@ -43,7 +43,10 @@ https://github.com/sehresh92/Car-game-project-in-Java/blob/main/Project/Game.jav
  
  https://github.com/sehresh92/Car-game-project-in-Java/tree/main/Project/Images
  
+ This is my complete Car game project in Java with source code and pictures.This game is very much fun and interesting to play.
+ So, Now you can download it, run it on your computer and you can able to modify it. 
  
+ Thank you for watching my Car Game Project in Java :-)
  
 
 
