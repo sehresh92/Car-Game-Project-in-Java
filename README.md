@@ -12,7 +12,7 @@ First, download the project and extract it. When you are done extracting the fol
 
 https://github.com/sehresh92/Car-game-project-in-Java/blob/main/Driving%20Car%20on%20the%20street.png
 
-
+https://github.com/sehresh92/Car-game-project-in-Java/blob/main/Driving%20Car%20on%20the%20street%20without%20Collision.png
 
 
 
