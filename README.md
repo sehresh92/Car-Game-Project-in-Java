@@ -10,6 +10,10 @@ First, download the project and extract it. When you are done extracting the fol
 
 3 pictures Description of my project:
 
+https://github.com/sehresh92/Car-game-project-in-Java/blob/main/Driving%20Car%20on%20the%20street.png
+
+
+
 
 
 To run this game you will need a JDK installed on your system . Download and open this project in your code editor. Then there is Game.java file which you can modify. Run that file through the command prompt.
