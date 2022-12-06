@@ -8,6 +8,10 @@ About Game play:
 
 First, download the project and extract it. When you are done extracting the folder, make sure you have your JDK set up to correct path. When you run the game, you will see your car moving on the road. You can select the start button to play the game. You cannot select different variety of cars to go into the race. Your arrows are the controller for this game. You have to just press the arrows to the adjacent sides to switch over the side. So that you prevent yourself from hitting the other objects and cars.
 
+3 pictures Description of my project:
+
+
+
 To run this game you will need a JDK installed on your system . Download and open this project in your code editor. Then there is Game.java file which you can modify. Run that file through the command prompt.
 
 How to run this car game project on your computer:
