@@ -35,7 +35,7 @@ You can download my car game project from the following link:
 
 https://github.com/sehresh92/Car-game-project-in-Java/tree/main/Project
 
-you can download and check my car game project in java source code from the following link:
+you can download and check my car game java source code from the following link:
 
 https://github.com/sehresh92/Car-game-project-in-Java/blob/main/Project/Game.java
 
